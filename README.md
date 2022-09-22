@@ -1,11 +1,11 @@
 # multiplicationchallengewebapp
 
-Hello! I made this project that generates random multiplication challenges of two numbers in the range of 11 to 99, and the user has to guess what the right answer is. 
+Hello! I made this web application that generates random multiplication challenges of two numbers in the range of 11 to 99, and the user has to guess what the right answer is. 
 Once the user hits "submit", the server will respond with whether the guess was "correct" or "incorrect". 
 
 The user can also put in an alias, with which the user's attempts will be saved in a database. Here I use the H2 database.
 
-The whole project is built on the Spring Boot framework, and built with Maven.
+The whole project is built on the Spring Boot framework, and built with Maven. The front end is built using ReactJS.
 
 Dependencies used: spring-boot-starter-test, spring-data-jpa, H2, spring-boot-core
 
