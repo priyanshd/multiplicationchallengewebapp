@@ -1,4 +1,4 @@
-# multiplicationchallengewebapp![_app_screenshot_guesscorrect]
+# multiplicationchallengewebapp
 
 Hello! I made this project that generates random multiplication challenges of two numbers in the range of 11 to 99, and the user has to guess what the right answer is. 
 Once the user hits "submit", the server will respond with whether the guess was "correct" or "incorrect". 
@@ -11,8 +11,6 @@ Dependencies used: spring-boot-starter-test, spring-data-jpa, H2, spring-boot-co
 
 Screenshots of the UI:
 
-
-(https://user-images.githubusercontent.com/42340564/191698509-0d48397f-d6c3-4350-acce-eb1ffc3d7c3d.png)
-
+![_app_screenshot_guesscorrect](https://user-images.githubusercontent.com/42340564/191700296-67e1d108-b428-456a-8142-22f9878cfae0.png)
 
 ![app-last-attempts-screenshot](https://user-images.githubusercontent.com/42340564/191700014-15aa5e47-f64a-47fb-aaf3-437cbab98698.png)
