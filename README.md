@@ -7,7 +7,7 @@ The user can also put in an alias, with which the user's attempts will be saved 
 
 The whole project is built on the Spring Boot framework, and built with Maven. The front end is built using ReactJS.
 
-Dependencies used: spring-boot-starter-test, spring-data-jpa, H2, spring-boot-core
+Dependencies used: spring-boot-starter-test, spring-data-jpa, H2, spring-boot-starter-web
 
 Screenshots of the UI:
 
